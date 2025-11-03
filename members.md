@@ -4,4 +4,6 @@
 
 ## Students
 
-* luschen
+luschen
+Tamuna Kheladze
+Monsurah Jokanola
